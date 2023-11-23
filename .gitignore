@@ -1,0 +1,4 @@
+venv/
+common_voice*
+wandb/
+**/__pycache__
